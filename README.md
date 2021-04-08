@@ -12,7 +12,7 @@ Så her er en step by step guide til at installere alle de nødvendige npm packa
 2. Installer "node" - https://nodejs.org/en/
 3. Åben din mappe med alle filerne i og højreklik og vælg "git bash here"
 4. Skriv "npm install discord.js"
-5. Skriv "npm install fiverborn-query"
+5. Skriv "npm install fivereborn-query"
 6. Skriv "npm install fs"
 7. Efter dette skriver du bare "node index.js" og bum så kører botten og den virker.
 
