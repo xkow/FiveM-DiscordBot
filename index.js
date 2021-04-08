@@ -40,8 +40,8 @@ client.on('message', message =>{
 
     if(command === 'serverinfo'){
         client.commands.get('serverinfo').execute(message, args, client, discord);
-    } else if (command == 'hej'){
-        client.commands.get('hej').execute(message, args, client, discord);
+    } else if (command == 'purge'){
+        client.commands.get('purge').run(message, args, client, discord);
     }
 })
 
