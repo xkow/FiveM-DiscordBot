@@ -1,5 +1,5 @@
 # FiveM-DiscordBot
-Dette er en FiveM DiscordBot som kan vise forkskelligt information omkring din server. Den kan bla. vise online spillere i activity osv.
+Dette er en FiveM DiscordBot som kan vise forkskelligt information omkring din server. Den kan bla. vise FiveM Playercount i activity osv.
 Den er stadig i meget early development så fejl kan forekomme, skrive gerne en issue hvis det er.
 
 # Opsætning
