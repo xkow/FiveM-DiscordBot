@@ -1,0 +1,2 @@
+# FiveM-DiscordBot
+Læs README
