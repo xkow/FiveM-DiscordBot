@@ -2,5 +2,5 @@
     "token": "SKRIV DIN TOKEN HER",
     "prefix": ".", 
     "ip": "SKRIV DIN IP HER", 
-    "port": "30120"
+    "port": "30120" //DETTE ER DEFAULT PORT SÅ DEN SKAL NOK IKKE ÆNDRES, MEN HAR VALGT AT GØRE SÅ MAN KAN SKIFTE HVIS DET NU SKULLE VÆRE :)
 }
