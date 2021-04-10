@@ -20,3 +20,7 @@ Så her er en step by step guide til at installere alle de nødvendige npm packa
 Du kan ændre alt hvad du skal ændre i "config.json" filen. Du skal indsætte din egen bot token + du skal også sætte din server ip og port.
 Default porten til fivem er 30120, så den skal nok ikke ændres.
 Du kan også ændre prefixet til commands med botten under config.json
+
+#Kontakt
+Discord: xkow#7242
+Steam: http://steamcommunity.com/id/SimonDK/
