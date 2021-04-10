@@ -22,5 +22,5 @@ Default porten til fivem er 30120, så den skal nok ikke ændres.
 Du kan også ændre prefixet til commands med botten under config.json
 
 # Kontakt
-Discord: xkow#7242
+Discord: xkow#7242 | 
 Steam: http://steamcommunity.com/id/SimonDK/
