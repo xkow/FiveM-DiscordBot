@@ -2,7 +2,7 @@
 Dette er en FiveM DiscordBot som kan vise forkskelligt information omkring din server. Den kan bla. vise FiveM Playercount i activity osv.
 Den er stadig i meget early development så fejl kan forekomme, skrive gerne en issue hvis det er.
 
-# Opsætning
+# Opsætning af Tickets (Du SKAL se denne video hvis du vil sætte tickets ordentligt op)
 Intet her pt, læs i mellemtiden teksten under, da der står en semi godt beskrevet tingeling der nede :)
 
 # NPM Packages + start af botten med node.js
