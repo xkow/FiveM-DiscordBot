@@ -3,7 +3,7 @@ Dette er en FiveM DiscordBot som kan vise forkskelligt information omkring din s
 Den er stadig i meget early development så fejl kan forekomme, skrive gerne en issue hvis det er.
 
 # Opsætning af Tickets (Du SKAL se denne video hvis du vil sætte tickets ordentligt op)
-Intet her pt, læs i mellemtiden teksten under, da der står en semi godt beskrevet tingeling der nede :)
+https://www.youtube.com/watch?v=eDGROHW8yuA&ab_channel=xKow
 
 # NPM Packages + start af botten med node.js
 Denne del er MEGET vigtig. Uden dette vil din bot ikke virke.
