@@ -44,6 +44,8 @@ client.on('message', message =>{
         client.commands.get('purge').run(message, args, client, discord);
     } else if (command == 'ticket'){
         client.commands.get('ticket').execute(message, args, client, discord);
+    } else if (command == 'support'){
+        client.commands.get('support').execute(message, args, discord);
     }
 })
 
