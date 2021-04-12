@@ -24,7 +24,20 @@ client.on('ready', () => {
     activity(); 
 })
 
-
+client.on("message", (message) => {
+    if (message.content.startsWith("bot", "botinfo")) {
+        const madeByEmbed = new discord.MessageEmbed()
+            .setColor('#0099ff')
+            .setTitle('BOT INFORMATION')
+            .setFooter('https://github.com/xKow', 'https://i.imgur.com/92eLTHA.png')
+            .addFields(
+                {name: `LAVET AF:`, value: `xkow#7242`},
+                {name: `KODET I:`, value: `JavaScript`},
+                {name: `XKOWS STEAM:`, value: `https://steamcommunity.com/id/SimonDK/`},
+            )
+            message.channel.send(madeByEmbed);
+    }
+  });
 
 const commandFiles = fs.readdirSync('./commands/').filter(file => file.endsWith('.js'));
 for (const file of commandFiles){
