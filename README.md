@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=eDGROHW8yuA&ab_channel=xKow
 # NPM Packages + start af botten med node.js
 Denne del er MEGET vigtig. Uden dette vil din bot ikke virke.
 Så her er en step by step guide til at installere alle de nødvendige npm packages.
-1. Installer "git" - https://git-scm.com/ (andre terminaler vil også virke)
+1. Installer "git" - https://git-scm.com/ (andre terminaler vil også virke.)
 2. Installer "node" - https://nodejs.org/en/
 3. Åben din mappe med alle filerne i og højreklik og vælg "git bash here"
 4. Skriv "npm install discord.js"
