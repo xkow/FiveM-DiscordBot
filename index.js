@@ -63,6 +63,8 @@ client.on('message', message =>{
         client.commands.get('support').execute(message, args, discord);
     } else if (command == 'help'){
         client.commands.get('help').execute(message, args, discord);
+    } else if (command == 'discordinfo'){
+        client.commands.get('discordinfo').execute(message, args, discord);
     }
 })
 
