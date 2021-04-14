@@ -11,7 +11,7 @@ module.exports = {
             .setFooter('https://github.com/xKow', 'https://i.imgur.com/92eLTHA.png')
             .addFields(
                 {name: `FiveM RELATEREDE COMMANDS`, value: `.serverinfo | *Viser information om serveren*`},
-                {name: `ANDRE COMMANDS`, value: `.support | *Tilkalder en staff*\n.ticket | *Opretter en ticket*\n.help | *Viser denne besked*\n.botinfo | *Viser information omkring denne bot*`},
+                {name: `ANDRE COMMANDS`, value: `.support | *Tilkalder en staff*\n.ticket | *Opretter en ticket*\n.help | *Viser denne besked*\n.botinfo | *Viser information omkring denne bot*\n.discordinfo | *Viser dig information omkring discord serveren.*`},
                 {name: `STAFF COMMANDS`, value: `.purge (antal) | *Sletter seneste x antal beskeder*`},
             )
             message.channel.send(helpEmbed);
