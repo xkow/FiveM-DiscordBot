@@ -14,7 +14,7 @@ Så her er en step by step guide til at installere alle de nødvendige npm packa
 4. Skriv "npm install discord.js"
 5. Skriv "npm install fivereborn-query"
 6. Skriv "npm install fs"
-7. Efter dette skriver du bare "node index.js" og bum så kører botten og den virker.
+7. Efter dette skriver du bare "node index.js" og så kører botten og virker.
 
 # config.json
 Du kan ændre alt hvad du skal ændre i "config.json" filen. Du skal indsætte din egen bot token + du skal også sætte din server ip og port.
