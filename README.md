@@ -1,4 +1,4 @@
-#VIRKER IKKE LÆNGERE - FØLG OPDATERING PÅ https://xkow.xyz/
+# VIRKER IKKE LÆNGERE - FØLG OPDATERING PÅ https://xkow.xyz/
 
 # FiveM-DiscordBot
 Dette er en FiveM DiscordBot som kan vise forkskelligt information omkring din server. Den kan bla. vise FiveM Playercount i activity osv.
